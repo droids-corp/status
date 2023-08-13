@@ -3,18 +3,22 @@ owner: p-l-
 repo: status
 
 sites:
-  - name: IVRE
-    url: https://ivre.rocks/
   - name: Droids Corporation
     url: https://www.droids-corp.org/
+  - name: IVRE
+    url: https://ivre.rocks/
+  - name: Miasm
+    url: https://miasm.re/
+  - name: Marker Beacon
+    url: https://www.markerbeacon.org/
 
 status-website:
-  # cname: demo.upptime.js.org
+  # cname: status.droids-corp.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/14372564
   name: Status
-  introTitle: Upptime instance for my web pages
-  introMessage: Status page using Upptime for IVRE and the Droids Corporation
+  introTitle: Upptime instance for the Droids Corporation pages
+  introMessage: Status page using Upptime for the Droids Corporation
   navbar:
     - title: Status
       href: /
