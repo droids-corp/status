@@ -20,6 +20,7 @@ status-website:
   # cname: status.droids-corp.org
   baseUrl: /status
   logoUrl: https://avatars.githubusercontent.com/u/14372564
+  theme: night
   name: Status
   introTitle: Upptime instance for the Droids Corporation pages
   introMessage: Status page using Upptime for the Droids Corporation
