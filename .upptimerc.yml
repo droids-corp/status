@@ -15,6 +15,10 @@ sites:
       - serpilliere
   - name: Marker Beacon
     url: https://www.markerbeacon.org/
+  - name: SMTP
+    check: "tcp-ping"
+    url: mail.droids-corp.org
+    port: 25
 
 status-website:
   # cname: status.droids-corp.org
