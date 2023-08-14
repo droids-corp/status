@@ -26,8 +26,8 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/14372564
   theme: night
   name: Status
-  introTitle: Upptime instance for the Droids Corporation pages
-  introMessage: Status page using Upptime for the Droids Corporation
+  introTitle: Status - the Droids Corporation
+  introMessage: Status page for the Droids Corporation Internet Services - Kingdom of Syldavia
   navbar:
     - title: Status
       href: /
