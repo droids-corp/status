@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.droids-corp.org.ico",
     "slug": "droids-corporation",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1033,
-    "timeDay": 1207,
-    "timeWeek": 1053,
-    "timeMonth": 1022,
-    "timeYear": 1033,
-    "dailyMinutesDown": {
-      "2023-11-03": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1031,
+    "timeDay": 1122,
+    "timeWeek": 1010,
+    "timeMonth": 1021,
+    "timeYear": 1031,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IVRE",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 567,
-    "timeWeek": 650,
-    "timeMonth": 697,
-    "timeYear": 739,
+    "time": 737,
+    "timeDay": 583,
+    "timeWeek": 587,
+    "timeMonth": 701,
+    "timeYear": 737,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/miasm.re.ico",
     "slug": "miasm",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 989,
-    "timeDay": 944,
-    "timeWeek": 915,
-    "timeMonth": 960,
-    "timeYear": 989,
-    "dailyMinutesDown": {
-      "2023-11-03": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 987,
+    "timeDay": 998,
+    "timeWeek": 852,
+    "timeMonth": 964,
+    "timeYear": 987,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Marker Beacon",
@@ -63,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.markerbeacon.org.ico",
     "slug": "marker-beacon",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 686,
-    "timeDay": 719,
-    "timeWeek": 687,
-    "timeMonth": 683,
-    "timeYear": 686,
-    "dailyMinutesDown": {
-      "2023-11-03": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 684,
+    "timeDay": 688,
+    "timeWeek": 630,
+    "timeMonth": 678,
+    "timeYear": 684,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SMTP",
@@ -88,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 204,
-    "timeWeek": 251,
-    "timeMonth": 250,
-    "timeYear": 270,
+    "time": 269,
+    "timeDay": 192,
+    "timeWeek": 235,
+    "timeMonth": 247,
+    "timeYear": 269,
     "dailyMinutesDown": {}
   }
 ]
