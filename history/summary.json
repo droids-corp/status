@@ -4,10 +4,10 @@
     "url": "https://www.droids-corp.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.droids-corp.org.ico",
     "slug": "droids-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1081,
@@ -15,7 +15,9 @@
     "timeWeek": 1087,
     "timeMonth": 1094,
     "timeYear": 1094,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 1
+    }
   },
   {
     "name": "IVRE",
@@ -40,9 +42,9 @@
     "url": "https://miasm.re/",
     "icon": "https://icons.duckduckgo.com/ip3/miasm.re.ico",
     "slug": "miasm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 924,
     "timeMonth": 959,
     "timeYear": 1005,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   },
   {
     "name": "Marker Beacon",
