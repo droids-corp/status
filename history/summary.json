@@ -4,11 +4,11 @@
     "url": "https://www.droids-corp.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.droids-corp.org.ico",
     "slug": "droids-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 1084,
     "timeDay": 1269,
@@ -16,6 +16,7 @@
     "timeMonth": 1156,
     "timeYear": 1098,
     "dailyMinutesDown": {
+      "2024-12-05": 2,
       "2024-12-03": 45
     }
   },
@@ -42,11 +43,11 @@
     "url": "https://miasm.re/",
     "icon": "https://icons.duckduckgo.com/ip3/miasm.re.ico",
     "slug": "miasm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 1000,
     "timeDay": 786,
@@ -54,6 +55,7 @@
     "timeMonth": 970,
     "timeYear": 1003,
     "dailyMinutesDown": {
+      "2024-12-05": 2,
       "2024-12-03": 45
     }
   },
@@ -62,11 +64,11 @@
     "url": "https://www.markerbeacon.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.markerbeacon.org.ico",
     "slug": "marker-beacon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 699,
     "timeDay": 609,
@@ -74,6 +76,7 @@
     "timeMonth": 726,
     "timeYear": 702,
     "dailyMinutesDown": {
+      "2024-12-05": 1,
       "2024-12-03": 45
     }
   },
@@ -82,9 +85,9 @@
     "url": "mail.droids-corp.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,6 +96,8 @@
     "timeWeek": 117,
     "timeMonth": 112,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-05": 0
+    }
   }
 ]
