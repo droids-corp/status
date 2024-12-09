@@ -85,19 +85,19 @@
     "url": "mail.droids-corp.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 144,
-    "timeDay": 103,
-    "timeWeek": 112,
-    "timeMonth": 114,
+    "timeDay": 127,
+    "timeWeek": 116,
+    "timeMonth": 115,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-12-09": 0,
+      "2024-12-09": 39,
       "2024-12-05": 79
     }
   }
