@@ -4,9 +4,9 @@
     "url": "https://www.droids-corp.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.droids-corp.org.ico",
     "slug": "droids-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1156,
     "timeYear": 1104,
     "dailyMinutesDown": {
+      "2024-12-31": 0,
       "2024-12-10": 38,
       "2024-12-05": 25,
       "2024-12-03": 45
@@ -44,9 +45,9 @@
     "url": "https://miasm.re/",
     "icon": "https://icons.duckduckgo.com/ip3/miasm.re.ico",
     "slug": "miasm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
@@ -56,6 +57,7 @@
     "timeMonth": 930,
     "timeYear": 988,
     "dailyMinutesDown": {
+      "2024-12-31": 0,
       "2024-12-10": 38,
       "2024-12-05": 24,
       "2024-12-03": 45
@@ -66,9 +68,9 @@
     "url": "https://www.markerbeacon.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.markerbeacon.org.ico",
     "slug": "marker-beacon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
@@ -78,6 +80,7 @@
     "timeMonth": 628,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2024-12-31": 0,
       "2024-12-10": 38,
       "2024-12-05": 24,
       "2024-12-03": 45
